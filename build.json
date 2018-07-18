@@ -1,0 +1,12 @@
+{
+	"id": "mobile_detect_js",
+	"version": "1.4.2",
+	"description": "Device detection (phone, tablet, desktop, mobile grade, os, versions) ",
+	"categories": [
+		"mobile",
+		"detect",
+		"javascript"
+	],
+	"compatible_from": "2018.3.6",
+	"dependencies" : []
+}
