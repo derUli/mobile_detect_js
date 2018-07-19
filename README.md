@@ -10,10 +10,13 @@ Sie sollten dieses Modul nur installieren,
 wenn ein Modul oder Theme es als Abhängigkeit benötigt, oder sie selbst damit entwickeln möchten.
 
 Das originale Script findet sich unter folgendem Link:
+
 http://hgoebl.github.io/mobile-detect.js/
 
 **Suchen Sie Mobile Detect für PHP?**
 
 Dieses Modul enthält nur die Javascript-Version von Mobile Detect.
+
 Eine PHP-Version dieses Moduls finden Sie unter:
+
 https://github.com/derUli/ulicms-Mobile_Detect
