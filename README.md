@@ -13,7 +13,7 @@ Das originale Script findet sich unter folgendem Link:
 
 http://hgoebl.github.io/mobile-detect.js/
 
-**Suchen Sie Mobile Detect für PHP?**
+## Suchen Sie Mobile Detect für PHP?
 
 Dieses Modul enthält nur die Javascript-Version von Mobile Detect.
 
